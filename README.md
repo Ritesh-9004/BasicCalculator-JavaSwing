@@ -9,9 +9,11 @@
 </div>
 
 
+## ⚠️ **NOTE:** THIS IS A LEARNING PROJECT AND NOT A PRODUCTION-READY SOLUTION.
+
+---
 
 ### A simple calculator built using Java Swing with a clean GUI. This calculator performs basic arithmetic operations (addition, subtraction, multiplication, division) and uses Java's `Stack` for operator handling.
-
 ---
 
 ## 🖥️ Features
@@ -24,6 +26,7 @@
 - "C" button to clear the screen and reset memory
 
 ---
+## Screenshot 
 | UI | Text UI |
 |--------------|--------------|
 | ![UI](Screenshot/UI.jpg) | ![UI2](Screenshot/Text_UI.jpg) |
@@ -40,5 +43,7 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/JavaSwingCalculator.git
+   git clone https://github.com/Ritesh-9004/BasicCalculator-JavaSwing.git
    cd JavaSwingCalculator
+---
+
