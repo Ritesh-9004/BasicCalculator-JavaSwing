@@ -24,9 +24,9 @@
 - "C" button to clear the screen and reset memory
 
 ---
-| Screenshot 1 | Screenshot 2 |
+| UI | Text UI |
 |--------------|--------------|
-| ![UI1](screenshots/ui.jpg) | ![UI2](Screenshot/Text_UI.jpg) |
+| ![UI](Screenshot/UI.jpg) | ![UI2](Screenshot/Text_UI.jpg) |
 
 ---
 ## 🛠️ Requirements
